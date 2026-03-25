@@ -6,3 +6,5 @@ namA=10
 numB=15
 print(addNum(numA,numB))
 print("program was ende")
+print("bye")
+print("아무말")
